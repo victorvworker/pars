@@ -1,0 +1,46 @@
+{
+	"portfolio": {
+		"columns": {
+			"securities": [
+				"isin",
+				"grn",
+				"volume",
+				"recognized_price",
+				"valuation",
+				"maturity",
+				"duration"
+			],
+			"instruments": [
+				"bik",
+				"bank_name",
+				"valuation",
+				"maturity",
+				"yield",
+				"isRecallAble",
+				"isFloater",
+				"REPO",
+				"isin_repo"
+			]
+		},
+		"securities": [
+			"RU000AOHHK26",
+			"10102272B",
+			139626167,
+			102,
+			14241869034,
+			null,
+			null
+		],
+		"instruments": [
+			"1010101",
+			"Bank1",
+			14241869034,
+			null,
+			null,
+			false,
+			false,
+			"ru1010101",
+			"ru"
+		]
+	}
+}
